@@ -9,6 +9,7 @@
 
 ### 과목별 공부 자료
 ## 1. 컴퓨터구조
+![image](https://github.com/yht0827/cs_study/assets/35368554/350f88fb-5dce-42f4-bf29-1f2815abdfd1)
 
 ## 2. 운영체제
 ![image](https://github.com/yht0827/cs_study/assets/35368554/b0591722-bcd1-48ff-bcb8-9c72eeb93baa)
