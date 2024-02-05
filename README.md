@@ -17,4 +17,5 @@
  ![image](https://github.com/yht0827/cs_study/assets/35368554/d86a7b86-57a6-4d72-aa8b-1757abb31cd2)
 
 ## 4. 데이터베이스
- 
+ ![image](https://github.com/yht0827/cs_study/assets/35368554/93802095-3976-4f2c-984e-d4d1c48e8fc0)
+
