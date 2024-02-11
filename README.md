@@ -13,6 +13,7 @@
 
 ## 2. 운영체제
 ![image](https://github.com/yht0827/cs_study/assets/35368554/94f04417-2c20-44fb-9d08-ac426f46f634)
+- [인터넷 강의](https://www.youtube.com/playlist?list=PLXvgR_grOs1DGFOeD792kHlRml0PhCe9l)
 
 ## 3. 네트워크
  ![image](https://github.com/yht0827/cs_study/assets/35368554/d86a7b86-57a6-4d72-aa8b-1757abb31cd2)
