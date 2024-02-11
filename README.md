@@ -2,7 +2,7 @@
 
 |Week|Date|Topic|Subject|
 |:---:|:---:|:---:|:---:|
-|week 1|2024-02-11|운영체제|[chap1](), [chap2]()||
+|week 1|2024-02-11|운영체제|[chap1](https://github.com/yht0827/cs_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/chap1.md), [chap2](https://github.com/yht0827/cs_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/chap2.md)||
 |week 2|2024-02-18||||
 |week 3|2024-02-25||||
 
