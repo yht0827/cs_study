@@ -5,8 +5,8 @@
 | :----: | :--------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | week 1 | 2024-02-11 | 운영체제 | [chap1](https://github.com/yht0827/cs_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/chap1.md), [chap2](https://github.com/yht0827/cs_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/chap2.md) |
 | week 2 | 2024-02-18 | 운영체제 |                                                    [chap3](https://github.com/yht0827/cs_study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/chap3.md)                                                    |
-| week 3 | 2024-02-25 |  컴퓨터 구조        | [chap1](), [chap2]()  |
-| week 4 | 2024-03-03 | ||
+| week 3 | 2024-02-25 |  컴퓨터 구조        | [chap1](https://github.com/yht0827/cs_study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/chap1.md), [chap2](https://github.com/yht0827/cs_study/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0/chap2.md)  |
+| week 4 | 2024-03-03 | 네트워크 | [chap1](), [chap2]() |
 
 ### 과목별 공부 자료
 
